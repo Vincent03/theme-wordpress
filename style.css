@@ -1,0 +1,40 @@
+/* Theme Name: Creation  */
+
+body{
+	background-color: #363636;
+}
+h1{
+	border: 3px solid white;
+	background-color: #3153b3;;
+
+}
+a{
+	color: black;
+}
+h2{
+	text-align: center;
+	border: 3px solid white;
+	border-radius: 10px;
+	background-color: #3153b3;
+	color: white;
+	width: 300px;
+	margin-left: 480px;
+}
+p{
+	text-align: center;
+	color: white;
+}
+#footer{
+	border: 3px solid white;
+	background-color: #3153b3;;
+}
+#header{
+	color: white;
+	text-align: center;
+}
+.sidebar{
+	border: 3px solid white;
+	background-color: gold;
+	width: 300px;
+
+}
